@@ -7,11 +7,17 @@ Abrir un cmd o Simbolo del Sistema y ejecutarlo como administrador.
 Escribir la palabra Python y dar ENTER para comprobar de que Python este instalado.
 Si Python esta instalado verificar que version y si es de 32 ó de 64 bits.
 Si Python no esta instalado ejecutar el comando:
+...
 pip install Python.
+...
+
 
 2-Descargar SpeechRecognition
 Ejecutar el comando:
+...
 pip install SpeechRecognition
+...
+
 
 3-Descargar pyttsx3
 Ejecutar el comando:
