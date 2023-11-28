@@ -12,12 +12,12 @@ pip install Python.
 ...
 
 
-2-Descargar SpeechRecognition
+### 2-Descargar SpeechRecognition
 Ejecutar el comando:
-...
-pip install SpeechRecognition
-...
 
+```
+pip install SpeechRecognition
+```
 
 3-Descargar pyttsx3
 Ejecutar el comando:
