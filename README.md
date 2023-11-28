@@ -26,7 +26,7 @@ Ejecutar el comando:
 pip install pyttsx3
 ```
 
-###IMPORTANTE
+### IMPORTANTE
 Para descargar la siguiente libreria necesitas saber muy bien cual es tu version de Python
 e identificar el tipo de sistema y su arquitectura ya que este puede cambiar dependiendo el
 ordenador.
