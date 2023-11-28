@@ -2,15 +2,15 @@
 
 Es necesario actualizar las dependencias y descargar las librerias de python
 
-1-Verificar la Versión de Python
+### 1-Verificar la Versión de Python
 Abrir un cmd o Simbolo del Sistema y ejecutarlo como administrador.
 Escribir la palabra Python y dar ENTER para comprobar de que Python este instalado.
 Si Python esta instalado verificar que version y si es de 32 ó de 64 bits.
 Si Python no esta instalado ejecutar el comando:
 
-pip install Python.
-
-
+```
+pip install Python
+```
 
 ### 2-Descargar SpeechRecognition
 Ejecutar el comando:
