@@ -23,7 +23,7 @@ e identificar el tipo de sistema y su arquitectura ya que este puede cambiar dep
 ordenador.
 
 Dirigete a la siguiente liga una vez hayas identificado lo anterior.
-[Py-Audio]([https://my-notes-bcc.netlify.app/](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+[Py-Audio](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 
 Y descarga el archivo que este de acuerdo a la version y arquitectura de Python.
 
