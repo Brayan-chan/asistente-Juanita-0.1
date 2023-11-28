@@ -49,3 +49,4 @@ Se estara actualizando el repositorio constantemente actualizando librerias y el
 
 
 <img width="500" alt="image" src="docs/import1.png">
+<img width="500" alt="image" src="docs/import2.png">
