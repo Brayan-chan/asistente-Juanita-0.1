@@ -46,3 +46,6 @@ pip install pywhatkit
 Y eso sería todo; actualmente este asistente sigue en desarrollo y este repositorio
 es parte de una pruba de dicho proyecto.
 Se estara actualizando el repositorio constantemente actualizando librerias y el código en general.
+
+
+<img width="500" alt="image" src="docs/import1.png">
